@@ -26,7 +26,7 @@ Maybe some of the resulting code will actually be useful.
 
 ## Current slop
 
-- [fsr-sdk-rs](https://github.com/Render-Slop-Manufactory/fsr-sdk-rs) (not actually published yet)
+- [fsr-sdk-rs](https://github.com/Render-Slop-Manufactory/fsr-sdk-rs)
 - [bevy-render-enhancements](https://github.com/Render-Slop-Manufactory/bevy-render-enhancements) (not actually published yet)
 
 ## What is the point?
