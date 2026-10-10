@@ -1,5 +1,9 @@
 # Render Slop Manufactory
 
+*Here, we still vibe-code by hand. Quality slop from the manufactory.*
+
+## What?
+
 I have AI tokens to burn.
 
 This org is basically an experiment to see how far I can get building rendering-related Rust stuff through AI orchestration without personally understanding every deep implementation detail beforehand.
